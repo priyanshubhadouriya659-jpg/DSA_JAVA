@@ -1,0 +1,10 @@
+Reverse a String
+Check if a string is palindrome
+Count vowels & consonants
+Convert lowercase → uppercase (without using built-in)
+Find frequency of each character
+Remove all spaces from a string
+Print duplicate characters in a string
+Check if two strings are anagrams
+Find the largest/smallest word in a sentence
+Toggle each character (a↔A)
